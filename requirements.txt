@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+gensim
+pyarrow
+pytest
+black
+flake8
